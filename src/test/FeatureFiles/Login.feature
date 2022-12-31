@@ -31,6 +31,6 @@ Feature: login functionality
     Then User should see the error message
     Examples:
       |     username       |   password    |
-     # |                    |BookTodayUser1 |
-     # |                    |               |
+      |                    |BookTodayUser1 |
+      |                    |               |
       |bookmydinetest@gmail.com|             |
